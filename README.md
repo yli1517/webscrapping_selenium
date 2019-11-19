@@ -1,4 +1,4 @@
-# Web-scrapping with Selenium
+# Web-scraping with Selenium
 
 ## Purpose:
 
